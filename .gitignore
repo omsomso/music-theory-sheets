@@ -1,0 +1,4 @@
+build/
+LOCAL.md
+__pycache__/
+.DS_Store
